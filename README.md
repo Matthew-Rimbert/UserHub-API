@@ -90,7 +90,7 @@ Below is an example of the Command: `curl http://localhost:3000/users` in both t
   </tr>
 </table>
 
-[Download the Python Script](https://github.com/Matthew-Rimbert/File-Size-Finder/raw/main/w5_matthew_rimbert.py) - Click to download the `w5_matthew_rimbert.py` directly.
+[Download the Script](https://github.com/Matthew-Rimbert/UserHub-API/blob/main/w4_matthew_rimbert.js) - Click to download the `w4_matthew_rimbert.js` directly.
 
 <table>
   <tr>
@@ -98,4 +98,4 @@ Below is an example of the Command: `curl http://localhost:3000/users` in both t
   </tr>
 </table>
 
-[Plain Text of Script](https://github.com/Matthew-Rimbert/File-Size-Finder/raw/main/w5_matthew_rimbert.txt) - View the plain text version of the script.
+[Plain Text of Script + Instruction](https://github.com/Matthew-Rimbert/UserHub-API/blob/main/w4_matthew_rimbert.txt) - View the plain text version of the script.

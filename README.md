@@ -2,6 +2,8 @@
 
 This Node.js application provides a RESTful service for managing a list of users, leveraging the Express framework to handle routing and HTTP server functionalities.
 
+![image](https://github.com/Matthew-Rimbert/UserHub-API/assets/169205418/dd67a0ff-0d23-4adb-bf4c-6217401f97b9)
+
 ## Features
 
 - RESTful API to create, read, update, and delete user data.
@@ -41,6 +43,8 @@ node w4_matthew_rimbert.js
 The server will start on **port 3000**. You can access it at *http://localhost:3000*.
 
 <div align="center">
+  
+![RESTAPI](https://github.com/Matthew-Rimbert/UserHub-API/assets/169205418/0717a92c-03f4-4408-ae9d-ded1d2434602)
 
 ## API Endpoints
 
@@ -72,9 +76,8 @@ Below are example commands for using the UserHub API endpoints.
 | PUT /users/:id  | `curl -X PUT -H "Content-Type: application/json" -d '{"name":"Alice","age":31}' http://localhost:3000/users/1` |
 | DELETE /users/:id | `curl -X DELETE http://localhost:3000/users/1`                                  |
 
-</div>
+</div><br>
 
+Below is an example of the Command: `curl http://localhost:3000/users` in both the command line and web browser.<br>
 
-
-
-
+![Restful_Service](https://github.com/Matthew-Rimbert/UserHub-API/assets/169205418/e2e2c128-4f8b-4daf-aac9-f44ec351ff40)

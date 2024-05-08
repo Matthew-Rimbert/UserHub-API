@@ -81,3 +81,21 @@ Below are example commands for using the UserHub API endpoints.
 Below is an example of the Command: `curl http://localhost:3000/users` in both the command line and web browser.<br>
 
 ![Restful_Service](https://github.com/Matthew-Rimbert/UserHub-API/assets/169205418/e2e2c128-4f8b-4daf-aac9-f44ec351ff40)
+
+## Download Below!
+
+<table>
+  <tr>
+    <td align="center">Download it for Yourself!</td>
+  </tr>
+</table>
+
+[Download the Python Script](https://github.com/Matthew-Rimbert/File-Size-Finder/raw/main/w5_matthew_rimbert.py) - Click to download the `w5_matthew_rimbert.py` directly.
+
+<table>
+  <tr>
+    <td align="center">Check out the Plain Text</td>
+  </tr>
+</table>
+
+[Plain Text of Script](https://github.com/Matthew-Rimbert/File-Size-Finder/raw/main/w5_matthew_rimbert.txt) - View the plain text version of the script.
